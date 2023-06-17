@@ -1,0 +1,13 @@
+/Users/nicolamarvulli/Desktop/agilelab/rust/rustlings/target/debug/deps/toml-ee61d235bb5f7bd9.rmeta: /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/lib.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/map.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/value.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/datetime.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/ser.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/de.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/tokens.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/macros.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/spanned.rs
+
+/Users/nicolamarvulli/Desktop/agilelab/rust/rustlings/target/debug/deps/toml-ee61d235bb5f7bd9.d: /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/lib.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/map.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/value.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/datetime.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/ser.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/de.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/tokens.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/macros.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/spanned.rs
+
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/lib.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/map.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/value.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/datetime.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/ser.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/de.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/tokens.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/macros.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/spanned.rs:

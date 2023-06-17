@@ -1,0 +1,11 @@
+/Users/nicolamarvulli/Desktop/agilelab/rust/rustlings/target/debug/deps/indicatif-462688bbb2aea243.rmeta: /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/lib.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/format.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/iter.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/progress_bar.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/state.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/style.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/utils.rs
+
+/Users/nicolamarvulli/Desktop/agilelab/rust/rustlings/target/debug/deps/indicatif-462688bbb2aea243.d: /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/lib.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/format.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/iter.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/progress_bar.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/state.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/style.rs /Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/utils.rs
+
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/lib.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/format.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/iter.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/progress_bar.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/state.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/style.rs:
+/Users/nicolamarvulli/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/utils.rs:
